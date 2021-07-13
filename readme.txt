@@ -7,4 +7,4 @@ a new branch of master test "this add second"
 =======
 switched to a new branch "featurel"
 >>>>>>> feature1
-
+another way of branch
